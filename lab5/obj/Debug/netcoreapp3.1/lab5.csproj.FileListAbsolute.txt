@@ -1,0 +1,13 @@
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+D:\programing\orders\c#_Mykola_and_Vlad\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache
